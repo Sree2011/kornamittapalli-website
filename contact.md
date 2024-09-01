@@ -6,5 +6,5 @@
 
 # Contact Us
 
-Mail us at: [email](mailto:kornamittapalli207@gmail.com)
-Follow us on Youtube: [MPPS KORNAMITTAPALLI](https://www.youtube.com/@MPPSKornamittapalli207)
+- Mail us at: [MPPS KORNAMITTAPALLI - Email](mailto:kornamittapalli207@gmail.com)
+- Follow us on Youtube: [MPPS KORNAMITTAPALLI - Youtube](https://www.youtube.com/@MPPSKornamittapalli207)

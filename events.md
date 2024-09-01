@@ -16,7 +16,6 @@ MPPS Kornamittapalli proudly participates in Veer Gatha 3.0, an initiative to in
 For more details, visit our [Veer Gatha 3.0 page](./veer-gatha-3-0.md).
 
 # Upcoming Events
-# Upcoming Events
 
 ## Swachhata Pakhwada
 At MPPS Kornamittapalli, we are committed to fostering a culture of cleanliness and hygiene among our students and the community. As part of the Swachhata Pakhwada initiative, our school organizes a series of engaging and impactful activities aimed at promoting the importance of sanitation and cleanliness.
