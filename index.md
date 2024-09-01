@@ -28,7 +28,7 @@ At MPPS Kornamittapalli, our mission is to:
 5. **Embrace Innovation**: Utilize innovative teaching methods and technologies to create engaging and effective learning experiences.
 
 ## Upcoming Events
-Details about upcoming school events.
+- [Swatchata Pakwada](./swatchata-pakwada.md)
 
 ## Contact Us
 Follow Us on Youtube:
